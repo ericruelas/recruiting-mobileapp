@@ -7,6 +7,7 @@ namespace CandidateTracker
 		public CandidateTrackerPage()
 		{
 			InitializeComponent();
+			//Testing
 		}
 	}
 }
