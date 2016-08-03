@@ -7,6 +7,9 @@ namespace CandidateTracker
 		public CandidateTrackerPage()
 		{
 			InitializeComponent();
+
+			var label = new Label { Text = "Hello" };
+			//Helllo this is await comment
 		}
 	}
 }
