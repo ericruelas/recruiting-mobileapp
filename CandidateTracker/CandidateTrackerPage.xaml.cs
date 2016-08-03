@@ -1,4 +1,4 @@
-﻿using Xamarin.Forms;
+using Xamarin.Forms;
 
 namespace CandidateTracker
 {
@@ -7,7 +7,6 @@ namespace CandidateTracker
 		public CandidateTrackerPage()
 		{
 			InitializeComponent();
-			//Testing
 		}
 	}
 }
